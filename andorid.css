@@ -15,7 +15,7 @@ h2{
 
 #heading{
     margin-top: 150px;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
 }
 
 #score{
@@ -30,6 +30,6 @@ h2{
 
 .box{
     margin-top: 40px;
-    height: 80px;
-    width: 80px;
+    height: 75px;
+    width: 75px;
 } 
