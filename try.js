@@ -237,3 +237,5 @@ function resetEverything(){
 
 }
 
+alert('FIRST CLICK ON "RANDOM" THEN SELECT A BOX');
+
